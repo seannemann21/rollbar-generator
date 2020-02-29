@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rollbar (2.24.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rollbar
+
+BUNDLED WITH
+   2.1.4
